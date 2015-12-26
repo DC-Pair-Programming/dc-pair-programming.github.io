@@ -8,7 +8,7 @@
 # Site settings
 title: DC Pair Programming
 email: >
-description: Rubyists in the DC-area pairing together online, working to develop code in a TDD, agile, manner.
+description: Rubyists in the DC-area pairing together online, working to develop code in a TDD, agile, manner. Created by Leslie Phifer and Kevin Rollins.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "dc-pair-programming.github.io" # the base hostname & protocol for your site
 twitter_username: >
